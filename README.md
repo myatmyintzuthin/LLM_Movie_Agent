@@ -40,3 +40,7 @@ python .\neo4j-semantic-layer\main.py
 
 ### 5. Sample CLI
 <img src="assets/sample_cli.png" alt="drawing" width="400"/>
+
+
+
+hello 
